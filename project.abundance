@@ -7,19 +7,19 @@
     "ioValues": [
         {
             "name": "Width",
-            "ioValue": 100
+            "ioValue": 1000
         },
         {
             "name": "Height",
-            "ioValue": 200
+            "ioValue": 2000
         },
         {
             "name": "Radius",
-            "ioValue": 20
+            "ioValue": 100
         },
         {
             "name": "Spacing",
-            "ioValue": 10
+            "ioValue": 30
         }
     ],
     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -82,21 +82,21 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Rectangle-Rounded",
-            "x": 0.42460317460317465,
-            "y": 0.34078212290502796,
+            "x": 0.4259259259259259,
+            "y": 0.3240223463687151,
             "uniqueID": "0e939215-7f25-4aae-8b45-9ff1595e40bb",
             "ioValues": [
                 {
                     "name": "Width",
-                    "ioValue": 100
+                    "ioValue": 1000
                 },
                 {
                     "name": "Height",
-                    "ioValue": 200
+                    "ioValue": 2000
                 },
                 {
                     "name": "Radius",
-                    "ioValue": 20
+                    "ioValue": 100
                 }
             ],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -155,7 +155,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 40
+                            "ioValue": 200
                         }
                     ],
                     "description": "Creates a new circle."
@@ -169,7 +169,7 @@
                     "ioValues": [
                         {
                             "name": "R",
-                            "ioValue": 20
+                            "ioValue": 100
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -184,11 +184,11 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 200
+                            "ioValue": 2000
                         },
                         {
                             "name": "R",
-                            "ioValue": 20
+                            "ioValue": 100
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -207,11 +207,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 30
+                            "ioValue": 400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 80
+                            "ioValue": 900
                         },
                         {
                             "name": "zDist",
@@ -247,11 +247,11 @@
                     "ioValues": [
                         {
                             "name": "W",
-                            "ioValue": 100
+                            "ioValue": 1000
                         },
                         {
                             "name": "R",
-                            "ioValue": 20
+                            "ioValue": 100
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -266,11 +266,11 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 200
+                            "ioValue": 2000
                         },
                         {
                             "name": "R",
-                            "ioValue": 20
+                            "ioValue": 100
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -289,11 +289,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 30
+                            "ioValue": 400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -80
+                            "ioValue": -900
                         },
                         {
                             "name": "zDist",
@@ -315,11 +315,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": -30
+                            "ioValue": -400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 80
+                            "ioValue": 900
                         },
                         {
                             "name": "zDist",
@@ -341,11 +341,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": -30
+                            "ioValue": -400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -80
+                            "ioValue": -900
                         },
                         {
                             "name": "zDist",
@@ -363,11 +363,11 @@
                     "ioValues": [
                         {
                             "name": "W",
-                            "ioValue": 100
+                            "ioValue": 1000
                         },
                         {
                             "name": "R",
-                            "ioValue": 20
+                            "ioValue": 100
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -643,21 +643,21 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Rectangle-Rounded",
-            "x": 0.5072751322751323,
-            "y": 0.6983240223463687,
+            "x": 0.5,
+            "y": 0.664804469273743,
             "uniqueID": "415b5ec4-ce25-49d1-9e8d-b26423e0292c",
             "ioValues": [
                 {
                     "name": "Width",
-                    "ioValue": 80
+                    "ioValue": 940
                 },
                 {
                     "name": "Height",
-                    "ioValue": 180
+                    "ioValue": 1940
                 },
                 {
                     "name": "Radius",
-                    "ioValue": 10
+                    "ioValue": 70
                 }
             ],
             "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -716,7 +716,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 20
+                            "ioValue": 140
                         }
                     ],
                     "description": "Creates a new circle."
@@ -730,7 +730,7 @@
                     "ioValues": [
                         {
                             "name": "R",
-                            "ioValue": 10
+                            "ioValue": 70
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -745,11 +745,11 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 180
+                            "ioValue": 1940
                         },
                         {
                             "name": "R",
-                            "ioValue": 10
+                            "ioValue": 70
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -768,11 +768,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 30
+                            "ioValue": 400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 80
+                            "ioValue": 900
                         },
                         {
                             "name": "zDist",
@@ -808,11 +808,11 @@
                     "ioValues": [
                         {
                             "name": "W",
-                            "ioValue": 80
+                            "ioValue": 940
                         },
                         {
                             "name": "R",
-                            "ioValue": 10
+                            "ioValue": 70
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -827,11 +827,11 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 180
+                            "ioValue": 1940
                         },
                         {
                             "name": "R",
-                            "ioValue": 10
+                            "ioValue": 70
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -850,11 +850,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 30
+                            "ioValue": 400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -80
+                            "ioValue": -900
                         },
                         {
                             "name": "zDist",
@@ -876,11 +876,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": -30
+                            "ioValue": -400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 80
+                            "ioValue": 900
                         },
                         {
                             "name": "zDist",
@@ -902,11 +902,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": -30
+                            "ioValue": -400
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -80
+                            "ioValue": -900
                         },
                         {
                             "name": "zDist",
@@ -924,11 +924,11 @@
                     "ioValues": [
                         {
                             "name": "W",
-                            "ioValue": 80
+                            "ioValue": 940
                         },
                         {
                             "name": "R",
-                            "ioValue": 10
+                            "ioValue": 70
                         }
                     ],
                     "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1222,17 +1222,17 @@
         {
             "atomType": "Equation",
             "name": "W-(2*T)",
-            "x": 0.3273809523809524,
-            "y": 0.5642458100558659,
+            "x": 0.28968253968253965,
+            "y": 0.3743016759776536,
             "uniqueID": "346a7025-b186-4323-8b43-cd133c3a496d",
             "ioValues": [
                 {
                     "name": "W",
-                    "ioValue": 100
+                    "ioValue": 1000
                 },
                 {
                     "name": "T",
-                    "ioValue": 10
+                    "ioValue": 30
                 }
             ],
             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1241,17 +1241,17 @@
         {
             "atomType": "Equation",
             "name": "H-(2*T)",
-            "x": 0.2757936507936508,
-            "y": 0.76536312849162,
+            "x": 0.27314814814814814,
+            "y": 0.547486033519553,
             "uniqueID": "871374a4-ab5b-48f5-a1bf-885180af9329",
             "ioValues": [
                 {
                     "name": "H",
-                    "ioValue": 200
+                    "ioValue": 2000
                 },
                 {
                     "name": "T",
-                    "ioValue": 10
+                    "ioValue": 30
                 }
             ],
             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1260,17 +1260,17 @@
         {
             "atomType": "Equation",
             "name": "R-T",
-            "x": 0.38293650793650796,
-            "y": 0.8910614525139664,
+            "x": 0.3313492063492064,
+            "y": 0.8128491620111732,
             "uniqueID": "890a5f45-7eca-46a1-832c-40e1c7f16736",
             "ioValues": [
                 {
                     "name": "R",
-                    "ioValue": 20
+                    "ioValue": 100
                 },
                 {
                     "name": "T",
-                    "ioValue": 10
+                    "ioValue": 30
                 }
             ],
             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
